@@ -1,0 +1,6 @@
+1. [[tentang diri]]
+2. [[pengalaman]]
+3. [[projek]]
+4. [[pendidikan]]
+5. [[skill]]
+6. [[sertifikat]]

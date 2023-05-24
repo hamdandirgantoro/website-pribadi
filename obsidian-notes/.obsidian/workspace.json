@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "90d352543efe3786",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb46a14b7b70a36e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6b0ab62918d60c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86d33eee7337b59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "033a99673b59ee76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5750532db30da49c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94ae0bbf3155a093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b50a3b61fb2a28e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eecd4bc8b8289bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd57ed03d3456c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb614e4b408b8b31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "934f051bbd36eb91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6b32ff2a13fa130",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de64910f757bea26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5750532db30da49c",
+  "lastOpenFiles": [
+    "daftar deskripsi pribadi.md",
+    "Doc WEBSITE.md",
+    "React Component.md",
+    "skill.md",
+    "pengalaman.md",
+    "isi navbar.md",
+    "tentang diri.md",
+    "sertifikat.md",
+    "react router.md",
+    "projek.md",
+    "pendidikan.md",
+    "library tambahan.md"
+  ]
+}
