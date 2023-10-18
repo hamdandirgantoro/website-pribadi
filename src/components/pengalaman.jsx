@@ -12,15 +12,15 @@ export default function Pengalaman() {
             height="100"
             draggable="false"
           />
-          <p>ndak enek</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eius nihil mollitia reiciendis quis fuga vel delectus voluptatem maiores incidunt, eos perspiciatis quos id nesciunt officia, magni, dolore modi labore!</p>
         </div>
         <ul>
-          <h4>kok ngono?</h4>
-          <li>males</li>
-          <li>males</li>
-          <li>males</li>
-          <li>males</li>
-          <li>males</li>
+          <h4>list</h4>
+          <li>1</li>
+          <li>2</li>
+          <li>3</li>
+          <li>4</li>
+          <li>5</li>
         </ul>
       </div>
     </div>

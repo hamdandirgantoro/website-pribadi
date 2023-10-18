@@ -1,9 +1,10 @@
 import React from "react";
-export default function Akun() {
+export default function Akun(props) {
+  let screenSize = props.screenSize
   return (
     <p className="akun-container">
-      <h4>akun saya:</h4>
-      <div style={{ display: "flex", flexDirection: "row", marginTop: 15 }}>
+      <h4 style={{ textAlign:screenSize ? "center":"inherit" }}>akun saya:</h4>
+      <div style={{ display: "flex", flexDirection: "row", marginTop: 15 ,justifyContent:screenSize ? "center" : "inherit" }}>
         <a
           href="https://github.com/hamdandirgantoro"
           target="_blank"
